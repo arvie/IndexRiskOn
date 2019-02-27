@@ -2,9 +2,9 @@
 ## General strategy assumptions
 1. Market (index) is always growing due to economic growth with average annual total return ~ 7%
 1. Market is fluctating: it has upturns and downturns due to:
-  1. investor emotions and sentiment
-  1. economic changes (crisises)
-  1. gaps between buyers and sellers in specific moment
+    1. investor emotions and sentiment
+    1. economic changes (crisises)
+    1. gaps between buyers and sellers in specific moment
 1. Market over the time returns to average growth rate of 7%
 1. Broker commission may be included as part of each limit order (buy or sell)
 
@@ -27,8 +27,8 @@
 
 # Input parameters
 1. OTAH
-  1. Price
-  1. Date max was reached
-  1. Dividends history
+    1. Price
+    1. Date max was reached
+    1. Dividends history
 
 # Output parameters
